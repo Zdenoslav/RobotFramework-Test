@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 3.2.2 (Python 3.8.3 on darwin)" generated="20201005 11:56:44.209" rpa="false">
+<robot generator="Robot 3.2.2 (Python 3.8.3 on darwin)" generated="20201005 13:50:27.221" rpa="false">
 <suite id="s1" name="Test" source="/Users/zdenkomucina/Desktop/RoborFrameworkTest/test.robot">
 <test id="s1-t1" name="test">
 <kw name="Open Browser" library="Selenium2Library">
@@ -8,12 +8,12 @@
 <arg>${URL}</arg>
 <arg>${Browser}</arg>
 </arguments>
-<msg timestamp="20201005 11:56:44.457" level="INFO">Opening browser 'Chrome' to base url 'https://docs.cypress.io/'.</msg>
-<status status="PASS" starttime="20201005 11:56:44.456" endtime="20201005 11:56:51.408"></status>
+<msg timestamp="20201005 13:50:27.553" level="INFO">Opening browser 'Chrome' to base url 'https://www.google.com/'.</msg>
+<status status="PASS" starttime="20201005 13:50:27.553" endtime="20201005 13:50:32.456"></status>
 </kw>
-<status status="PASS" starttime="20201005 11:56:44.456" endtime="20201005 11:56:51.408" critical="yes"></status>
+<status status="PASS" starttime="20201005 13:50:27.552" endtime="20201005 13:50:32.457" critical="yes"></status>
 </test>
-<status status="PASS" starttime="20201005 11:56:44.211" endtime="20201005 11:56:51.409"></status>
+<status status="PASS" starttime="20201005 13:50:27.224" endtime="20201005 13:50:32.459"></status>
 </suite>
 <statistics>
 <total>
