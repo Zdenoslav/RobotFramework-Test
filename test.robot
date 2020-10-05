@@ -6,7 +6,7 @@ Library  Selenium2Library
 *** Variables ***
 
 ${Browser}  Chrome
-${URL}  https://www.google.com/
+${URL}  https://docs.cypress.io/
 
 
 *** Test Cases ***
